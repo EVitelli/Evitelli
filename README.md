@@ -1,6 +1,6 @@
 <h1>Hi there 🤙, I'm Erik Vitelli</h1>
 
-* 🔭 I’m currently working on **Totvs**
+* 🔭 I’m currently working at **Totvs**
 
 * 🌱 I’m currently learning **Flutter**
 
