@@ -8,6 +8,9 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
+    <a href="https://www.instagram.com/_evitelli/" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/EVitelli/Evitelli/e815b2a8a94813b938c8cf8a55018b3daa6e847d/icons/instagram-original.svg" alt="erik-vitelli" height="30" width="40"/>
+    </a>
     <a href="https://linkedin.com/in/erik-vitelli" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/EVitelli/Evitelli/6c5a009dd3d4ffa5e65085d8a42287ff3ec743d6/icons/linkedin-original.svg" alt="erik-vitelli" height="30" width="40"/>
     </a>
